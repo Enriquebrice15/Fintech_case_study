@@ -1,6 +1,6 @@
 # Apple Card
 ---
-![Apple Card](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fapple-card%2F&psig=AOvVaw187-5erV8yefvnfd8tZpQa&ust=1639281784508000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCsk9bu2vQCFQAAAAAdAAAAABAI)
+![Apple Card](https://www.google.com/search?q=apple+card&tbm=isch&sxsrf=AOaemvLJEhs28Yf-lXhx8OWOil3qDI7Fmg:1639195383014&source=lnms&sa=X&ved=2ahUKEwiG7ZXU7tr0AhX9QzABHUk1C9cQ_AUoAnoECAEQBA&biw=1207&bih=724&dpr=2#imgrc=UfZlTZZYHwO84M)
 ---
 ## Apple is partnering with Goldman Sachs for the card, which is optimized for ‌Apple Pay‌ but will still works like a traditional credit card for all of your transactions.
 
