@@ -1,6 +1,5 @@
 # Apple Card
-
-
+---
 ## Apple is partnering with Goldman Sachs for the card, which is optimized for ‌Apple Pay‌ but will still works like a traditional credit card for all of your transactions.
 
 * Apple and Goldman Sachs
