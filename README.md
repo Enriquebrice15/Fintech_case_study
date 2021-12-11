@@ -1,5 +1,6 @@
 # Apple Card
 
+
 ## Apple is partnering with Goldman Sachs for the card, which is optimized for ‌Apple Pay‌ but will still works like a traditional credit card for all of your transactions.
 
 * Apple and Goldman Sachs
@@ -54,4 +55,3 @@ Wells Fargo Cash Wise Visa® Card: Cash for the wise.
 - [ ] https://www.forbes.com/advisor/credit-cards/reviews/the-apple-credit-card/
 - [ ] https://www.androidcentral.com/best-apple-card-alternatives-android-phone-users
 - [ ] https://9to5mac.com/2021/08/19/apple-touts-apple-card-success-in-j-d-power-rankings-two-years-after-launch/
-- [ ] 
